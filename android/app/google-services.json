@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "281593738449",
+    "firebase_url": "https://mygarage-9949e.firebaseio.com",
+    "project_id": "mygarage-9949e",
+    "storage_bucket": "mygarage-9949e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281593738449:android:cd33bd8d81ba0d09e901f0",
+        "android_client_info": {
+          "package_name": "com.hearts.liveauction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281593738449-1kfe1f911ik4ipuno6jp9a6o47phq3b4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hearts.liveauction",
+            "certificate_hash": "2958ec99fe72b0ce652061c9b05d35c10f5523ba"
+          }
+        },
+        {
+          "client_id": "281593738449-r8h27r8q4cki3h888kbf9filsnkecc9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrILlRu_4CMge_THFcBZkNEDiYT6oKQZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281593738449-r8h27r8q4cki3h888kbf9filsnkecc9r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281593738449-b9sgj9h5v87fbt9h2hcuekteojoh26fc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.2960.mygarage"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281593738449:android:58081cf0997a310a",
+        "android_client_info": {
+          "package_name": "com.hearts.mygarage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281593738449-6d4f50shjog0cvienemkc4h0jsgt4le6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hearts.mygarage",
+            "certificate_hash": "d3e44bd7c9bcb5eaf9df1120d0b7da71dbb6ed3a"
+          }
+        },
+        {
+          "client_id": "281593738449-8dajih1g5bcu6hbpm271ep28c69v2cqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hearts.mygarage",
+            "certificate_hash": "a1d3e6de58b0c745d804e6dbca31f756e0d25a02"
+          }
+        },
+        {
+          "client_id": "281593738449-iufqab0rlgnrh9vkl07576hump6shmsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hearts.mygarage",
+            "certificate_hash": "df95478e2873b7b7aa01dfd4375410711f0765c7"
+          }
+        },
+        {
+          "client_id": "281593738449-ll5kcul1qd3is76it35oep49shqbki3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hearts.mygarage",
+            "certificate_hash": "37aada82814aa8d5c2801b177657678a8f6d295e"
+          }
+        },
+        {
+          "client_id": "281593738449-p2930s6ptllvu61bs94ieer655d6vccp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hearts.mygarage",
+            "certificate_hash": "ac0f84f2af83d735a9c41582d89f0641fa0ac667"
+          }
+        },
+        {
+          "client_id": "281593738449-r8h27r8q4cki3h888kbf9filsnkecc9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrILlRu_4CMge_THFcBZkNEDiYT6oKQZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281593738449-r8h27r8q4cki3h888kbf9filsnkecc9r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281593738449-b9sgj9h5v87fbt9h2hcuekteojoh26fc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.2960.mygarage"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281593738449:android:4f2fd7f60f019981e901f0",
+        "android_client_info": {
+          "package_name": "com.hearts.mygaragelight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281593738449-1u6ulmqjrafst4ireoq9q99pah08vtvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hearts.mygaragelight",
+            "certificate_hash": "2e1c50e126abc56dc1a6451a78fa9f76aba150e0"
+          }
+        },
+        {
+          "client_id": "281593738449-aqosin6mdsdtp0d85rgn406iiq1lq7mh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hearts.mygaragelight",
+            "certificate_hash": "91b238df03a67737a3481f1462cee5bf96db986b"
+          }
+        },
+        {
+          "client_id": "281593738449-h1kel33ulqnfr9hqsmhrq76poj45sqi4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hearts.mygaragelight",
+            "certificate_hash": "65ba31fac0312bb0eeb71245fab6f64c38d17bb9"
+          }
+        },
+        {
+          "client_id": "281593738449-r8h27r8q4cki3h888kbf9filsnkecc9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrILlRu_4CMge_THFcBZkNEDiYT6oKQZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281593738449-r8h27r8q4cki3h888kbf9filsnkecc9r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281593738449-b9sgj9h5v87fbt9h2hcuekteojoh26fc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.2960.mygarage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

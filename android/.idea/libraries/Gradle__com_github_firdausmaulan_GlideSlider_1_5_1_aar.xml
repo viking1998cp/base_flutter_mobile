@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.firdausmaulan:GlideSlider:1.5.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/72e223ea63e0b871cc171e44e424f09e/transformed/GlideSlider-1.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/72e223ea63e0b871cc171e44e424f09e/transformed/GlideSlider-1.5.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/72e223ea63e0b871cc171e44e424f09e/transformed/GlideSlider-1.5.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.firdausmaulan/GlideSlider/1.5.1/123731990de3f88c34e327215f2e688b04de0326/GlideSlider-1.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
