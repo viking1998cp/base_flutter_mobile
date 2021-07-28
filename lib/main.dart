@@ -1,5 +1,4 @@
 // import 'package:base_flutter_framework/services/deep_link.dart';
-import 'package:base_flutter_framework/components/menu/menu_main/menu_page.dart';
 import 'package:base_flutter_framework/utils/dimens.dart';
 import 'package:base_flutter_framework/utils/shared.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -9,7 +8,6 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 // import 'screens/menu/menu_main/menu_page.dart';
 // import 'screens/login_register/register/register_page.dart';
 import 'screens/home_main/home_main_page.dart';
-import 'screens/login/login_page.dart';
 import 'services/onesignal/onesignal_config.dart';
 import 'translations/app_translations_delegate.dart';
 import 'translations/application.dart';
@@ -90,9 +88,7 @@ class _MyAppState extends State<MyApp> {
                 return Splash();
               } else {
                 // Loading is done, return the app:
-                return MenuHome(
-                  index: 0,
-                );
+                return HomeMainPage();
               }
             },
           )),
